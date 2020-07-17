@@ -14,7 +14,9 @@ Malheureusement, la population terrestre n'est pas homogène et tout le monde n'
 
 ** La Spirale Dynamique (SD)
 
-** World System Model (WSM)
+** IFF World System Model (WSM)
+
+[[https://medium.com/age-of-awareness/the-iff-world-system-model-afa8d700dad9][Source]]
 
 ** Les trois horizons (3H)
 
