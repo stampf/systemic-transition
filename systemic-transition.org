@@ -10,6 +10,13 @@ Par conséquent, il va falloir penser et agir différemment si l'on veut négoci
 
 Malheureusement, la population terrestre n'est pas homogène et tout le monde n'a pas le même niveau de développement. Chacun, chaque société, se situe à un niveau de développement correspondant à ce qui lui convient, dans l'environnement où il se trouve (par conséquent il n'y a pas de meilleur niveau qu'un autre). Le modèle utilisé ici est celui de la Spirale Dynamique (rappel: tous les modèles sont faux, mais certains sont utiles).
 
+** Les critères d'une transition réussie
+
+Si la transition sera forcée et non évitable, ses critères de réussite seront :
+- limiter les dégats sans retarder l'échéance (car l'impact serait plus important)
+- arriver à vivre dans un monde réchauffé, post-carbone/pétrole/éléments rares
+- construire une vie, une société humaine, avec l'impact environnemental le plus faible possible (surface terrestre utilisée la plus faible possible, toutes activités confondues)
+
 ** L'effondrement à venir
 
 [[https://clubofrome.org/publication/the-limits-to-growth/][Voir 1er rapport au Club de Rome (anglais)]]
