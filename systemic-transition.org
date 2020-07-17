@@ -25,7 +25,7 @@ Si la transition sera forcée et non évitable, ses critères de réussite seron
 
 [[https://fr.wikipedia.org/wiki/Spirale_dynamique][Source]]
 
-#+INCLUDE: "spirale_dynamique.org"
+#+INCLUDE: "./spirale_dynamique.org"
 
 ** IFF World System Model (WSM)
 
