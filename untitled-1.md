@@ -1,4 +1,10 @@
-# stampf/systemic-transition
+---
+description: >-
+  Ce chapitre liste les démarches systémique utilisées pour cadrer les
+  réflexions de cet ouvrage.
+---
+
+# Méthodes systémiques déployées dans cet ouvrage
 
 Citation Einstein:
 
@@ -12,9 +18,10 @@ Malheureusement, la population terrestre n’est pas homogène et tout le monde 
 
 Si la transition sera forcée et non évitable, ses critères de réussite seront :
 
-* limiter les dégats sans retarder l’échéance \(car l’impact serait plus important\)
+* limiter les dégâts sans retarder l’échéance \(car l’impact serait plus important\)
 * arriver à vivre dans un monde réchauffé, post-carbone/pétrole/éléments rares
 * construire une vie, une société humaine, avec l’impact environnemental le plus faible possible \(surface terrestre utilisée la plus faible possible, toutes activités confondues\)
+* tout en restant \(relativement\) heureux.
 
 ## L’effondrement à venir
 
